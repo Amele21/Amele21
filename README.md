@@ -13,11 +13,16 @@
 - <b>Database Web App (JavaScript, Handlebars, SQL)</b>
   - [Library Management System](https://github.com/Amele21/Library-Management-System)
 
+  
 <h2>Videos</h2>
-
+  
 - [Gains](https://www.youtube.com/watch?v=AdAk74THrlU)
 - [Loan Calculator](https://media.oregonstate.edu/media/1_bb39c6rq)
 
+<h2>Documents</h2>
+  
+- [Continuous Integration Paper](https://drive.google.com/file/d/1pZ4h9_wDg5-8iTdl8ZNdQky9HdCm61O3/view?usp=share_link)
+- [Library Management System Documentation](https://drive.google.com/file/d/17O-2ljLw0_UfbJIrO2u7KRZ58oHuY_TK/view?usp=share_link)
 
 <h2>Socials</h2>
 
@@ -33,17 +38,6 @@
 
 [linkedin]: https://www.linkedin.com/in/adrian-melendrez-131375261/
 
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
