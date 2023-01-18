@@ -5,7 +5,7 @@
 - <b>Full Stack Web App (React, NodeJS, ExpressJS, JavaScript, MongoDB)</b>
   - [Gains (Senior Capstone Project)](https://gains-1enk.onrender.com/) <b><i>(Give it a few seconds to load)</b></i>
   
-- <b>Database Web App (JavaScript, Handlebars, SQL)</b>
+- <b>Full Stack Database Web App (JavaScript, Handlebars, SQL)</b>
   - [Library Management System](https://github.com/Amele21/Library-Management-System)
   
 - <b>Python</b>
