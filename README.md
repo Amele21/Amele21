@@ -9,6 +9,7 @@
   - [Client-Server Chat](https://github.com/Amele21/Client---Server-Chat)
   - [Loan Calculator](https://github.com/Amele21/Loan-Calculator)<b>  with Flask</b>
   - [Graph Traversal Puzzle Solver](https://github.com/Amele21/Graph-Traversal-Puzzle)
+  - [Academic Advisor GPA Calculator](https://github.com/Amele21/Academic-Advisor-Calculator)
  
 - <b>Database Web App (JavaScript, Handlebars, SQL)</b>
   - [Library Management System](https://github.com/Amele21/Library-Management-System)
