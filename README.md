@@ -4,7 +4,10 @@
 
 - <b>Full Stack Web App (React, NodeJS, ExpressJS, JavaScript, MongoDB)</b>
   - [Gains (Senior Capstone Project)](https://gains-1enk.onrender.com/) <b><i>(Give it a few seconds to load)</b></i>
-
+  
+- <b>Database Web App (JavaScript, Handlebars, SQL)</b>
+  - [Library Management System](https://github.com/Amele21/Library-Management-System)
+  
 - <b>Python</b>
   - [Client-Server Chat](https://github.com/Amele21/Client---Server-Chat)
   - [Loan Calculator](https://github.com/Amele21/Loan-Calculator)<b>  with Flask</b>
@@ -13,10 +16,8 @@
   - [HashMap Implementation](https://github.com/Amele21/HashMap-Implementation)
   - [Wikipedia Image Web Scrapper Microservice](https://github.com/Amele21/Wikipedia-Image-Web-Scrapper-Microservice)
  
-- <b>Database Web App (JavaScript, Handlebars, SQL)</b>
-  - [Library Management System](https://github.com/Amele21/Library-Management-System)
 
-  
+
 <h2>Videos</h2>
   
 - [Gains](https://www.youtube.com/watch?v=AdAk74THrlU)
