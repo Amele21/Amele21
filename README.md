@@ -2,7 +2,7 @@
 
 <h2>Software Development Projects:</h2>
 
-- <b>Full Stack Web App (React, NodeJS, ExpressJS, JavaScript, MongoDB)</b>
+- <b>Full Stack MERN Web App (React, NodeJS, ExpressJS, JavaScript, MongoDB)</b>
   - [Gains (Senior Capstone Project)](https://gains-1enk.onrender.com/) <b><i>(Give it a few seconds to load)</b></i>
   
 - <b>Full Stack Database Web App (JavaScript, Handlebars, SQL)</b>
