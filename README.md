@@ -10,6 +10,7 @@
   - [Loan Calculator](https://github.com/Amele21/Loan-Calculator)<b>  with Flask</b>
   - [Graph Traversal Puzzle Solver](https://github.com/Amele21/Graph-Traversal-Puzzle)
   - [Academic Advisor GPA Calculator](https://github.com/Amele21/Academic-Advisor-Calculator)
+  - [HashMap Implementation](https://github.com/Amele21/HashMap-Implementation)
  
 - <b>Database Web App (JavaScript, Handlebars, SQL)</b>
   - [Library Management System](https://github.com/Amele21/Library-Management-System)
