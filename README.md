@@ -9,7 +9,7 @@
   - [Library Management System](https://github.com/Amele21/Library-Management-System)
  
 - <b> Rest API MERN stack Web App (React, JavaScript, MongoDB, ExpressJS, NodeJS, HTML, CSS)</b>
-  - [Library Management System](https://github.com/Amele21/Library-Management-System)
+  - [Exercise Tracker App](https://github.com/Amele21/Exercise-Tracker-App)
   
 - <b>Python</b>
   - [Client-Server Chat](https://github.com/Amele21/Client---Server-Chat)
