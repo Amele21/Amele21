@@ -21,7 +21,7 @@
   - [Graph Traversal Puzzle Solver](https://github.com/Amele21/Graph-Traversal-Puzzle)
   - [Academic Advisor GPA Calculator](https://github.com/Amele21/Academic-Advisor-Calculator)
   - [HashMap Implementation](https://github.com/Amele21/HashMap-Implementation)
-  - [Wikipedia Image Web Scrapper Microservice](https://github.com/Amele21/Wikipedia-Image-Web-Scrapper-Microservice)
+  - [Wikipedia Image Web Scraper Microservice](https://github.com/Amele21/Wikipedia-Image-Web-Scraper-Microservice)
  
 
 
