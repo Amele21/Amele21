@@ -1,6 +1,6 @@
 <h1>Portfolio<br/>
 
-<h2>Software Development Full Stack Projects:</h2>
+<h2>Software Development: Full Stack Projects:</h2>
 
 - <b>Full Stack MERN Web App (React, NodeJS, ExpressJS, JavaScript, MongoDB)</b>
   - [Gains (Senior Capstone Project)](https://gains-1enk.onrender.com/) <b><i>(Give it a few seconds to load)</b></i>
