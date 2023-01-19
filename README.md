@@ -11,6 +11,9 @@
 - <b> Rest API MERN stack Web App (React, JavaScript, MongoDB, ExpressJS, NodeJS, HTML, CSS)</b>
   - [Exercise Tracker App](https://github.com/Amele21/Exercise-Tracker-App)
   
+  - <b> Flask Full Stack Python Web App (Python, HTML, CSS)</b>
+  - [Exercise Tracker App](https://github.com/Amele21/Exercise-Tracker-App)
+  
 - <b>Python</b>
   - [Client-Server Chat](https://github.com/Amele21/Client---Server-Chat)
   - [Loan Calculator](https://github.com/Amele21/Loan-Calculator)<b>  with Flask</b>
