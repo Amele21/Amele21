@@ -1,6 +1,6 @@
 <h1>Hi, I'm Adrian Melendrez <br/>
 
-<h2>Software Development Projects:</h2>
+<h2>Software Development Full Stack Projects:</h2>
 
 - <b>Full Stack MERN Web App (React, NodeJS, ExpressJS, JavaScript, MongoDB)</b>
   - [Gains (Senior Capstone Project)](https://gains-1enk.onrender.com/) <b><i>(Give it a few seconds to load)</b></i>
@@ -11,12 +11,13 @@
 - <b> Rest API MERN stack Web App (React, JavaScript, MongoDB, ExpressJS, NodeJS, HTML, CSS)</b>
   - [Exercise Tracker App](https://github.com/Amele21/Exercise-Tracker-App)
   
-  - <b> Flask Full Stack Python Web App (Python, HTML, CSS)</b>
-  - [Exercise Tracker App](https://github.com/Amele21/Exercise-Tracker-App)
+- <b> Flask Full Stack Python Web App (Python, HTML, CSS)</b>
+  - [Loan Calculator](https://github.com/Amele21/Loan-Calculator)
   
-- <b>Python</b>
+  
+<h2>Python Projects</h2>
+  
   - [Client-Server Chat](https://github.com/Amele21/Client---Server-Chat)
-  - [Loan Calculator](https://github.com/Amele21/Loan-Calculator)<b>  with Flask</b>
   - [Graph Traversal Puzzle Solver](https://github.com/Amele21/Graph-Traversal-Puzzle)
   - [Academic Advisor GPA Calculator](https://github.com/Amele21/Academic-Advisor-Calculator)
   - [HashMap Implementation](https://github.com/Amele21/HashMap-Implementation)
