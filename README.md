@@ -1,4 +1,5 @@
 <h1>Portfolio<br/>
+  
 
 <h2>Software Development: Full Stack Projects:</h2>
 
@@ -38,16 +39,19 @@
 <h2>Socials</h2>
 
 
-[<img align="left" alt="Amele21 | LinkedIn" width="200px" src="https://brand.linkedin.com/content/dam/me/brand/en-us/brand-home/logos/01-dsk-e8-v2.png.original.png" />][linkedin]
+
+[<img align="left" alt="Amele21 | LinkedIn" width="90px" src="https://user-images.githubusercontent.com/77030204/215922470-0b5ea730-798f-4963-af7d-0f78c6392f6e.png" />][linkedin]
   
-[<img align="left" alt="Amele21 | GitHub" width="49px" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" />][github]
+[<img align="left" alt="Amele21 | GitHub" width="90px" src="https://cdn-icons-png.flaticon.com/512/733/733553.png" />][github]
   
-  
+[<img align="left" alt="Amele21 | Website" width="90px" src="https://cdn-icons-png.flaticon.com/512/351/351456.png" />][website]
   
 [github]: https://github.com/Amele21
 
 
 [linkedin]: https://www.linkedin.com/in/adrian-melendrez-131375261/
+  
+[website]: https://adrianmelendrez.com/ 
 
 
 
