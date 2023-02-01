@@ -36,9 +36,7 @@
 - [Continuous Integration Paper](https://drive.google.com/file/d/1pZ4h9_wDg5-8iTdl8ZNdQky9HdCm61O3/view?usp=share_link)
 - [Library Management System Documentation](https://drive.google.com/file/d/17O-2ljLw0_UfbJIrO2u7KRZ58oHuY_TK/view?usp=share_link)
 
-<h2>Socials</h2>
-
-
+<h2>Links</h2>
 
 [<img align="left" alt="Amele21 | LinkedIn" width="70px" src="https://user-images.githubusercontent.com/77030204/215922470-0b5ea730-798f-4963-af7d-0f78c6392f6e.png" />][linkedin]
   
