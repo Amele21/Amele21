@@ -46,7 +46,7 @@
   
 [<img align="left" alt="Amele21 | Website" width="90px" src="https://cdn-icons-png.flaticon.com/512/351/351456.png" />][website]
   
-[github]: https://github.com/Amele21](https://github.com/Amele21?tab=repositories)
+[github]: https://github.com/Amele21?tab=repositories)
 
 [linkedin]: https://www.linkedin.com/in/adrian-melendrez-131375261/
   
