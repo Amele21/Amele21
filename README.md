@@ -40,13 +40,13 @@
 
 
 
-[<img align="left" alt="Amele21 | LinkedIn" width="90px" src="https://user-images.githubusercontent.com/77030204/215922470-0b5ea730-798f-4963-af7d-0f78c6392f6e.png" />][linkedin]
+[<img align="left" alt="Amele21 | LinkedIn" width="70px" src="https://user-images.githubusercontent.com/77030204/215922470-0b5ea730-798f-4963-af7d-0f78c6392f6e.png" />][linkedin]
   
-[<img align="left" alt="Amele21 | GitHub" width="90px" src="https://cdn-icons-png.flaticon.com/512/733/733553.png" />][github]
+[<img align="left" alt="Amele21 | GitHub" width="70px" src="https://cdn-icons-png.flaticon.com/512/733/733553.png" />][github]
   
-[<img align="left" alt="Amele21 | Website" width="90px" src="https://cdn-icons-png.flaticon.com/512/351/351456.png" />][website]
+[<img align="left" alt="Amele21 | Website" width="70px" src="https://cdn-icons-png.flaticon.com/512/351/351456.png" />][website]
 
-[<img align="left" alt="Amele21 | Resume" width="90px" src="https://cdn-icons-png.flaticon.com/512/3153/3153506.png" />][resume]
+[<img align="left" alt="Amele21 | Resume" width="70px" src="https://cdn-icons-png.flaticon.com/512/3153/3153506.png" />][resume]
 
   
 [github]: https://github.com/Amele21?tab=repositories
